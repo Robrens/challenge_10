@@ -1,0 +1,4 @@
+127.0.0.1 - - [01/Aug/2018:11:31:51 +0200] "GET / HTTP/1.1" 200 532 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.75 Chrome/68.0.3440.75 Safari/537.36"
+127.0.0.1 - - [01/Aug/2018:11:31:52 +0200] "GET /favicon.ico HTTP/1.1" 404 500 "http://grid-chal/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.75 Chrome/68.0.3440.75 Safari/537.36"
+127.0.0.1 - - [01/Aug/2018:11:52:38 +0200] "GET / HTTP/1.1" 200 1647 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.75 Chrome/68.0.3440.75 Safari/537.36"
+127.0.0.1 - - [01/Aug/2018:12:01:27 +0200] "GET / HTTP/1.1" 200 1966 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/68.0.3440.75 Chrome/68.0.3440.75 Safari/537.36"
